@@ -1,0 +1,24 @@
+{
+  "name": "elseandif",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parambhatia51/elseandif.git"
+  },
+  "author": "param",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Parambhatia51/elseandif/issues"
+  },
+  "homepage": "https://github.com/Parambhatia51/elseandif#readme",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "normalize.css": "^8.0.1"
+  },
+  "keywords": [],
+  "description": ""
+}
